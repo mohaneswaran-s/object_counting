@@ -81,3 +81,5 @@ out.release()
 cv2.destroyAllWindows()
 
 print(f"Saved: {output_path}")
+
+print("check for new changes in github - tagging version 1.0.1")
